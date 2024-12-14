@@ -23,6 +23,12 @@ Note: Authors may be listed by their HuggingFace IDs. Additionally, summaries ar
 |-------|---------|---------|
 
 
+## Papers for 2024-12-14
+
+| Title | Authors | Summary |
+|-------|---------|---------|
+
+
 ## Papers for 2024-12-13
 
 | Title | Authors | Summary |
